@@ -1,7 +1,6 @@
-# curriculum-databases-projects-template
+# DATABASE PERFORMANCE AUDIT
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+This repo was create for database learning purpose. it contains sql commands to create database tables, to insert data, to increase performance, and to retrieve data.
 
 
 ## Getting Started
@@ -17,15 +16,20 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤**Makungong Collins Tatang**
+
+- GitHub: [Donat Uwamahoro](https://github.com/uwadonat)
+- Twitter: [Donat Uwamahoro](https://www.linkedin.com/in/uwadonat)
+- LinkedIn: [Donat Uwamahoro](https://twitter.com/uwahoroDonat)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Hubert Mugabo**
+
+- GitHub: [Hubert MUGABO](https://github.com/mugberto)
+- Twitter: [Hubert MUGABO](https://twitter.com/mugberto)
+- LinkedIn: [Hubert MUGABO](https://www.linkedin.com/in/hubert-mugabo)
+
 
 ## 🤝 Contributing
 
@@ -39,10 +43,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- [Microverse design team](https://app.zeplin.io/project/5b35a9e13227086040f8eb75/screen/5b695e29bb8c844f118f9378)
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
