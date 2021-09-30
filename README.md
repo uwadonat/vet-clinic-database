@@ -16,7 +16,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Author1**
 
-👤**Makungong Collins Tatang**
+👤**Donat UWAMAHORO**
 
 - GitHub: [Donat Uwamahoro](https://github.com/uwadonat)
 - Twitter: [Donat Uwamahoro](https://www.linkedin.com/in/uwadonat)
